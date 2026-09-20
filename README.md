@@ -11,8 +11,8 @@ A high-performance, modular Command-Line Interface (CLI) & Terminal User Interfa
 - **Repository URL Pattern:** `https://github.com/{username}/{repo-name}`
 - **Standard Submission Clone:**
   ```bash
-  git clone https://github.com/{username}/pdf-scanner.git
-  cd pdf-scanner
+  git clone https://github.com/tejeshwar006/img-to-pdf.git
+  cd img-to-pdf
   ```
 
 ---
@@ -86,7 +86,7 @@ pdf_scanner/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/{username}/pdf-scanner.git
+git clone https://github.com/tejeshwar006/img-to-pdf.git
 cd pdf-scanner
 ```
 
